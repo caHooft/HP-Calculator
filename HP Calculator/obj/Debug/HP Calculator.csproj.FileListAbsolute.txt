@@ -1,0 +1,18 @@
+C:\Users\kisha\Google Drive\000 School\NHL\1-3\Programmeren Gevorderd\Eindopdracht\HP Calculator\HP Calculator\obj\Debug\HP Calculator.csprojResolveAssemblyReference.cache
+C:\Users\kisha\Google Drive\000 School\NHL\1-3\Programmeren Gevorderd\Eindopdracht\HP Calculator\HP Calculator\obj\Debug\HP_Calculator.Properties.Resources.resources
+C:\Users\kisha\Google Drive\000 School\NHL\1-3\Programmeren Gevorderd\Eindopdracht\HP Calculator\HP Calculator\obj\Debug\HP Calculator.csproj.GenerateResource.Cache
+C:\Users\kisha\Google Drive\000 School\NHL\1-3\Programmeren Gevorderd\Eindopdracht\HP Calculator\HP Calculator\obj\Debug\HP Calculator.csproj.CoreCompileInputs.cache
+C:\Users\kisha\Google Drive\000 School\NHL\1-3\Programmeren Gevorderd\Eindopdracht\HP Calculator\HP Calculator\bin\Debug\HP Calculator.exe.config
+C:\Users\kisha\Google Drive\000 School\NHL\1-3\Programmeren Gevorderd\Eindopdracht\HP Calculator\HP Calculator\bin\Debug\HP Calculator.exe
+C:\Users\kisha\Google Drive\000 School\NHL\1-3\Programmeren Gevorderd\Eindopdracht\HP Calculator\HP Calculator\bin\Debug\HP Calculator.pdb
+C:\Users\kisha\Google Drive\000 School\NHL\1-3\Programmeren Gevorderd\Eindopdracht\HP Calculator\HP Calculator\obj\Debug\HP Calculator.exe
+C:\Users\kisha\Google Drive\000 School\NHL\1-3\Programmeren Gevorderd\Eindopdracht\HP Calculator\HP Calculator\obj\Debug\HP Calculator.pdb
+C:\Users\kisha\Google Drive\000 School\NHL\1-3\Programmeren Gevorderd\Eindopdracht\HP Calculator V2.0\HP Calculator\bin\Debug\HP Calculator.exe.config
+C:\Users\kisha\Google Drive\000 School\NHL\1-3\Programmeren Gevorderd\Eindopdracht\HP Calculator V2.0\HP Calculator\bin\Debug\HP Calculator.exe
+C:\Users\kisha\Google Drive\000 School\NHL\1-3\Programmeren Gevorderd\Eindopdracht\HP Calculator V2.0\HP Calculator\bin\Debug\HP Calculator.pdb
+C:\Users\kisha\Google Drive\000 School\NHL\1-3\Programmeren Gevorderd\Eindopdracht\HP Calculator V2.0\HP Calculator\obj\Debug\HP Calculator.csprojResolveAssemblyReference.cache
+C:\Users\kisha\Google Drive\000 School\NHL\1-3\Programmeren Gevorderd\Eindopdracht\HP Calculator V2.0\HP Calculator\obj\Debug\HP_Calculator.Properties.Resources.resources
+C:\Users\kisha\Google Drive\000 School\NHL\1-3\Programmeren Gevorderd\Eindopdracht\HP Calculator V2.0\HP Calculator\obj\Debug\HP Calculator.csproj.GenerateResource.cache
+C:\Users\kisha\Google Drive\000 School\NHL\1-3\Programmeren Gevorderd\Eindopdracht\HP Calculator V2.0\HP Calculator\obj\Debug\HP Calculator.csproj.CoreCompileInputs.cache
+C:\Users\kisha\Google Drive\000 School\NHL\1-3\Programmeren Gevorderd\Eindopdracht\HP Calculator V2.0\HP Calculator\obj\Debug\HP Calculator.exe
+C:\Users\kisha\Google Drive\000 School\NHL\1-3\Programmeren Gevorderd\Eindopdracht\HP Calculator V2.0\HP Calculator\obj\Debug\HP Calculator.pdb
